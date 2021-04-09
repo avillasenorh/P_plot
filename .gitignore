@@ -1,3 +1,25 @@
+# Initially hide these files and directories
+INSTALL_1
+P.l
+Pexec/
+Pmanual.txt
+Pmanual_1993.pdf
+Pmanual_1993.ps
+TAR
+aux/
+com_test
+data/
+do
+info/
+install.log
+p-source/
+peps_5/
+peps_5_June_2018_tvz/
+prg_other/
+putil/
+tmp/
+uscr/
+
 # Prerequisites
 *.d
 
